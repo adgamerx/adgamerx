@@ -1,4 +1,4 @@
-### Hi there I'm Aman Dutt - aka [ADGAMERX](https://www.linkedin.com/in/amandutt/)👋
+### Hi there I'm Aman Dutt - aka [ADGAMERX][linkedin]👋
 [![Website](https://img.shields.io/website?label=ADGAMERX.GQ&style=for-the-badge&url=https%3A%2F%2Fwww.adgamerx.gq/)](https://www.adgamerx.gq/ "Visit My Blog")
 [![Twitter Follow](https://img.shields.io/twitter/follow/adgamerx7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadgamerx7&screen_name=adgamerx7)
 
@@ -9,8 +9,6 @@
 - 📫 How to reach me: Check the [Contact Me](#connect-with-me)
 - 😍 Love to _Play Games_ and _GFX Works_
 - ⚡ Fun fact: My fingers run very well 😉
-
-
 
 <!--
 **adgamerx/adgamerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,8 +42,6 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
-
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 
 <br>
 
