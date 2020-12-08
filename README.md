@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 
 <br>
+<br>
 
 ### Github Stats 📈
 
