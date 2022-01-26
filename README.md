@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/adgamerx7
 [youtube]: https://youtube.com/amandutt
 [instagram]: https://instagram.com/adgamerx
-[linkedin]: https://linkedin.com/in/amandutt
+[linkedin]: https://www.linkedin.com/in/adgamerx/
 [facebook]: https://facebook.com/adgamerx
