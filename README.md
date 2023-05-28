@@ -1,5 +1,5 @@
 ### Hi there I'm Aman Dutt - aka [ADGAMERX][linkedin]👋
-[![Website](https://img.shields.io/website?label=ADGAMERX.GQ&style=for-the-badge&url=https%3A%2F%2Fwww.adgamerx.gq/)](https://www.adgamerx.gq/ "Visit My Blog")
+[![Website](https://img.shields.io/website?label=ADGAMERX.GQ&style=for-the-badge&url=https%3A%2F%2Fwww.adgamerx.gq/)]([https://www.adgamerx.gq/](https://adgamerx7.blogspot.com/) "Visit My Blog")
 [![Twitter Follow](https://img.shields.io/twitter/follow/adgamerx7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadgamerx7&screen_name=adgamerx7)
 
 ## I'm a Coder, Designer and a Gamer !!
